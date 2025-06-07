@@ -1,4 +1,3 @@
-# hi
----
-title: Welcome to my blog!
----
+# welcome to the site
+
+This is the content.
