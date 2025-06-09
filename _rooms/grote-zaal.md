@@ -15,14 +15,14 @@ tariffs:
     price: "€158,75"
 ---
 
-![Grote Zaal](images/rooms/grootezaal.jpg){: width="800" height="600"}
+![Grote Zaal](/images/rooms/grootezaal.jpg){: width="800" height="600"}
 
 Large hall perfect for community events, larger workshops, and social gatherings. Flexible layout options.
 
 **Tariffs:**
 
 | Rate Type         | Price   |
-| ----------------- | ------- |s
+| ----------------- | ------- |
 | Sociaal Cultureel | €105,85 |
 | Commercieel       | €158,75 |
 

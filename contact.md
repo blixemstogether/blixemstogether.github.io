@@ -6,7 +6,7 @@ description: Contact
 
 We’d love to hear from you!
 
-**Operating Hours:**
+## Operating Hours
 
 | Day       | Opening Hours   |
 | --------- | --------------- |

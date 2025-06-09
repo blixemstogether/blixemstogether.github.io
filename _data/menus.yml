@@ -2,8 +2,8 @@ main:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Rent a Room"
-    url: "/rooms/"
+  - name: "Rent a Space"
+    url: "/spaces/"
     weight: 2
   - name: "Events"
     url: "/events/"

@@ -11,4 +11,4 @@ show_call_box: true
 
 Blixems is a space designed to welcome you — whether you're meeting neighbours for a relaxed drink, lively conversations while the kids enjoy their lessons, or bringing people together for your own special gathering.
 
-Feel free to [rent our spaces](/rooms) or see what's coming up in our [events calendar](/events).
+Feel free to [rent our spaces](/spaces) or see what's coming up in our [events calendar](/events).
