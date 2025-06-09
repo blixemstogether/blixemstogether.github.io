@@ -23,7 +23,6 @@ Half-size gym area suitable for sports activities, fitness classes, and movement
 
 | Rate Type         | Price  |
 | ----------------- | ------ |
-| Wijkgebonden      | €40,15 |
 | Sociaal Cultureel | €60,20 |
 | Commercieel       | €90,35 |
 

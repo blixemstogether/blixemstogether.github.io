@@ -16,7 +16,7 @@ tariffs:
 ---
 
 ![Hobby/Vergader Lokaal](/images/rooms/hobbyzaal.jpg){: width="800" height="600"}
-![Hobby/Vergader Lokaal 2](/images/rooms/vergaderzaal.jpg){: width="800" height="600"}
+![Hobby/Vergader Lokaal 2](images/rooms/vergaderzaal.jpg){: width="800" height="600"}
 
 Versatile room suitable for hobby clubs, meetings, and small group gatherings. Comfortable seating and table arrangements.
 
@@ -24,7 +24,6 @@ Versatile room suitable for hobby clubs, meetings, and small group gatherings. C
 
 | Rate Type         | Price  |
 | ----------------- | ------ |
-| Wijkgebonden      | €28,15 |
 | Sociaal Cultureel | €42,60 |
 | Commercieel       | €63,90 |
 

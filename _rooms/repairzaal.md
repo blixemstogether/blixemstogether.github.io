@@ -24,7 +24,6 @@ Bright, open workshop space ideal for hands‑on activities, repairs, and group 
 
 | Rate Type         | Price  |
 | ----------------- | ------ |
-| Wijkgebonden      | €34,55 |
 | Sociaal Cultureel | €52,30 |
 | Commercieel       | €78,60 |
 
