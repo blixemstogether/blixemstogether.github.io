@@ -38,7 +38,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       
       # This step uses the ruby/setup-ruby action to set up the correct Ruby version.
       # It also uses 'bundler-cache: true' which is the key. This command will
